@@ -4,6 +4,6 @@
 
 Table depicting the economic order quantity, safety stock, and reorder point based off of varieting quantities such as average daily demand, lead time, and service level
 
-<•bbL>
-<•>
-<•>
+<•bbL/>
+<•/>
+<•/>
