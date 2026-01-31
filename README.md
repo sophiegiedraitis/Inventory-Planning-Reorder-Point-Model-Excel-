@@ -1,9 +1,9 @@
-# Inventory Reorder Point and Economic Order Quantity Table In Excel
+# Inventory Reorder Point & EOQ Analysis Using Excel
 
 <img width="1281" height="355" alt="image" src="https://github.com/user-attachments/assets/f343e41d-02fb-4920-ad79-491194cbfd99" />
 
 Table depicting the economic order quantity, safety stock, and reorder point based off of variating quantities such as average daily demand, lead time, and service level
 
-- High Demand: High inventory demand leads to a higher economic order quantity and a lower safety stock and reorder point quantities
+- High Demand: High inventory demand leads to a higher economic order quantity and reorder point and a lower safety stock amount
 - Long Lead Time: Long lead times lead to a higher amount of needed safety stock and reorder point
-- High Service Level: High service level leads to a higher amount of needed safety stock and higher reorder point amount
+- High Service Level: High service level leads to a higher amount of needed safety stock and a higher reorder point amount
